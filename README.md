@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Python 3, C, C++, JavaScript, ES6, and VIM**
 
-- 📫 How to reach me **saxena88ankur@hotmail.com**
+- 📫 How to reach me **author88ankur@hotmail.com**
 
 - ⚡ Fun fact **I think I am a bookworm**
 
