@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankur-saxena-88" alt="ankur-saxena-88" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin and Golang**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankur-saxena-88](https://github.com/ankur-saxena-88)
 
