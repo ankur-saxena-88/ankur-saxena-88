@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankur-saxena-88](https://github.com/ankur-saxena-88)
 
-- 📝 I regularly write articles on [https://cafetechlinux.wordpress.com/](https://cafetechlinux.wordpress.com/)
+- 📝 I regularly write articles on [https://ankur-blogs.hashnode.dev/](https://ankur-blogs.hashnode.dev/), [https://cafetechlinux.wordpress.com/](https://cafetechlinux.wordpress.com/)
 
 - 💬 Ask me about **Java, Python 3, C, C++, JavaScript, ES6, and VIM**
 
