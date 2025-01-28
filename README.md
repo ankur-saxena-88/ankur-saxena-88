@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankur-saxena-88&theme=dracula" alt="ankur-saxena-88" /></a> </p>
 
-- 🌱 I’m currently learning **Julia** and **Kotlin**
+- 🌱 I’m currently learning **Julia**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankur-saxena-88](https://github.com/ankur-saxena-88)
 
