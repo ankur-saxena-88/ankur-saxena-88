@@ -1,39 +1,73 @@
-<h1 align="center">Hi 👋, I'm ANKUR SAXENA</h1>
-<h3 align="center">Tech Blogger | Self-taught Developer | Open for Remote Internships & Freelance Projects</h3>
+<h1 align="center">Hi there, I'm Ankur Saxena 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur-saxena-88&label=Profile%20views&color=0e75b6&style=flat" alt="indiarocks88" /> </p>
+### ⭐ From repairing systems to shaping minds — bringing tech to life, one fix and one blog at a time.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankur-saxena-88&theme=dracula" alt="ankur-saxena-88" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Julia**
+### 💼 About Me  
+🚀 A self-made **IT Installation & Repair Technician**, **self-taught Developer**, and the creator of **[CafeTechLinux](https://cafetechlinux.wordpress.com)** — where I share guides, blogs/tutorials, and real tech experiences.
+
+I'm deeply passionate about exploring how technology connects people, creativity, and possibilities. Over the years, I’ve worked across **Linux** and **Windows** environments — fixing, customizing, and optimizing systems while continuously learning new tools and languages.
+
+---
+
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=ankur-saxena-88&label=Profile%20views&color=0e75b6&style=flat" alt="indiarocks88" /> 
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ankur-saxena-88&theme=dracula" alt="Ankur Saxena" />
+</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankur-saxena-88](https://github.com/ankur-saxena-88)
 
 - 📝 I regularly write articles on [https://ankur-blogs.hashnode.dev/](https://ankur-blogs.hashnode.dev/), [https://cafetechlinux.wordpress.com/](https://cafetechlinux.wordpress.com/)
 
-- 💬 Ask me about **Java, Python 3, C, C++, JavaScript, ES6, and VIM**
-
+- 🌱 Currently learning and exploring **Bash scripting** and experimenting with small automation projects for fun.
+  
 - 📫 How to reach me **author88ankur@outlook.com**
 
 - ⚡ Fun fact **I think I am a bookworm**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/15208014/ankur-saxena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/15208014/ankur-saxena" height="30" width="40" /></a>
-<a href="https://instagram.com/ankur6130" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankur6130" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCo_LwMiDDEdoHV_XM5ziG-Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="gamingrockstars88" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
-    <a href="https://atom.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/> </a>
-    <img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img align="left" alt="Jupyter Notebook" width="40px" height="40px" src="https://raw.githubusercontent.com/jupyter/notebook/620fb2919229d1c0b5e79087edcaaf95b770473b/notebook/static/base/images/logo.png" />
-    <img align="left" alt="Terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <img align="left" alt="GitHub" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🛠️ **Skills & Interests**
+- Windows & Linux installation, optimization, and troubleshooting  
+- System hardware setup and maintenance (SSD, RAM, thermal paste, etc.)  
+- C/C++ • Python • Java • Bash Shell • Web Development basics  
+- Writing tutorials & documenting my learning journey
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur-saxena-88&show_icons=true&locale=en&layout=compact" alt="ankur-saxena-88" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur-saxena-88&show_icons=true&locale=en" alt="ankur-saxena-88" /></p>
+---
+
+### 🛠️ Tech Stack & Tools  
+- **Languages:** C/C++, Java, Python, HTML, CSS, JavaScript  
+- **Operating Systems:** Linux (Mint, Ubuntu, Arch), Windows 11  
+- **Tools:** Git, Neovim, VS Code, Bash Shell, WSL, Docker (learning)  
+- **Domains:** Hardware repair, software/OS installation, troubleshooting, scripting, and system customization 
+
+---
+
+---
+
+### 📚 Currently working on
+
+- Setting up my local IT repair and installation workspace to help people keep their devices running longer, while promoting a culture of repair over replacement
+
+- Writing technical blogs/tutorials to help beginners learn confidently
+
+- Building personal automation tools to make daily system tasks easier
+
+---
+
+---
+
+### 🌐 Connect with Me  
+- 💼 **Website:** [CafeTechLinux](https://cafetechlinux.wordpress.com)  
+- ✉️ **Email:** [author88ankur@outlook.com](author88ankur@outlook.com)
+- 🧠 **GitHub:** [github.com/ankur-saxena](https://github.com/ankur-saxena-88)
+
+---
+
+💫 *A self-made tech mind — from code to circuit.*
