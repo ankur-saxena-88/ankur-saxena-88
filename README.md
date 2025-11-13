@@ -39,15 +39,11 @@ I'm deeply passionate about exploring how technology connects people, creativity
 
 ---
 
----
-
 ### 🛠️ Tech Stack & Tools  
 - **Languages:** C/C++, Java, Python, HTML, CSS, JavaScript  
 - **Operating Systems:** Linux (Mint, Ubuntu, Arch), Windows 11  
 - **Tools:** Git, Neovim, VS Code, Bash Shell, WSL, Docker (learning)  
 - **Domains:** Hardware repair, software/OS installation, troubleshooting, scripting, and system customization 
-
----
 
 ---
 
@@ -58,8 +54,6 @@ I'm deeply passionate about exploring how technology connects people, creativity
 - Writing technical blogs/tutorials to help beginners learn confidently
 
 - Building personal automation tools to make daily system tasks easier
-
----
 
 ---
 
