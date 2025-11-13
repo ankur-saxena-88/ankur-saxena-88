@@ -5,7 +5,7 @@
 ---
 
 ### 💼 About Me  
-🚀 A self-made **IT Installation & Repair Technician**, **self-taught Developer**, and the creator of **[CafeTechLinux](https://cafetechlinux.wordpress.com)** — where I share guides, blogs/tutorials, and real tech experiences.
+🚀 A self-made **IT Installation & Repair Technician**, **self-taught Developer**, **Tech blogger** and the **creator of [CafeTechLinux](https://cafetechlinux.wordpress.com)** — where I share guides, blogs/tutorials, and real tech experiences.
 
 I'm deeply passionate about exploring how technology connects people, creativity, and possibilities. Over the years, I’ve worked across **Linux** and **Windows** environments — fixing, customizing, and optimizing systems while continuously learning new tools and languages.
 
@@ -21,7 +21,7 @@ I'm deeply passionate about exploring how technology connects people, creativity
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankur-saxena-88](https://github.com/ankur-saxena-88)
 
-- 📝 I regularly write articles on [https://ankur-blogs.hashnode.dev/](https://ankur-blogs.hashnode.dev/), [https://cafetechlinux.wordpress.com/](https://cafetechlinux.wordpress.com/)
+- 📝 I regularly write articles on [https://cafetechlinux.wordpress.com/](https://cafetechlinux.wordpress.com/), [https://ankur-blogs.hashnode.dev/](https://ankur-blogs.hashnode.dev/)
 
 - 🌱 Currently learning and exploring **Bash scripting** and experimenting with small automation projects for fun.
   
