@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Ankur Saxena 👋</h1>
 
-### ⭐ From repairing systems to shaping minds — bringing tech to life, one fix and one blog at a time.
+### ⭐ From repairing/upgrading systems to shaping minds — bringing tech to life, one fix and one blog at a time.
 
 ---
 
 ### 💼 About Me  
-🚀 A self-made **IT Installation & Repair Technician**, **self-taught Developer**, **Tech blogger** and the **creator of [CafeTechLinux](https://cafetechlinux.wordpress.com)** — where I share guides, blogs/tutorials, and real tech experiences.
+🚀 A self-made **IT Software & Hardware Installation Technician**, **self-taught Developer**, **Tech blogger** and the **creator of [CafeTechLinux](https://cafetechlinux.wordpress.com)** — where I share guides, blogs/tutorials, and real tech experiences.
 
 I'm deeply passionate about exploring how technology connects people, creativity, and possibilities. Over the years, I’ve worked across **Linux** and **Windows** environments — fixing, customizing, and optimizing systems while continuously learning new tools and languages.
 
