@@ -12,11 +12,7 @@ I'm deeply passionate about exploring how technology connects people, creativity
 ---
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=ankur-saxena-88&label=Profile%20views&color=0e75b6&style=flat" alt="indiarocks88" /> 
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ankur-saxena-88&theme=dracula" alt="Ankur Saxena" />
+    <img src="https://komarev.com/ghpvc/?username=ankur-saxena-88&label=Profile%20views&color=a3b18a&style=flat" alt="ankur-saxena" /> 
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankur-saxena-88](https://github.com/ankur-saxena-88)
