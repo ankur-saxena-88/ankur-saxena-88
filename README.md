@@ -31,26 +31,26 @@ On this GitHub profile, I share my journey of learning, building, and experiment
 
 ### 🛠️ Skills & Interests
 
-🖥️ **Operating Systems:** Windows & Linux installation, customization, and environment setup
-💻 **Programming:** • C/C++ • Python • Java • Bash Shell • Web Development (Basics)
-✍️ **Content Creation:** Writing tutorials and documenting my learning journey
+🖥️ **Operating Systems:** Windows & Linux installation, customization, and environment setup <br>
+💻 **Programming:** • C/C++ • Python • Java • Bash Shell • Web Development (Basics) <br>
+✍️ **Content Creation:** Writing tutorials and documenting my learning journey <br>
 🎧 **Personal Interests:** Reading books, watching movies, and listening to music
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:** C/C++, Java, Python, HTML, CSS, JavaScript
-**Operating Systems:** Linux (Mint, Ubuntu, Arch) • Windows 11
+**Languages:** C/C++, Java, Python, HTML, CSS, JavaScript <br>
+**Operating Systems:** Linux (Mint, Ubuntu, Arch) • Windows 11 <br>
 **Tools & Technologies:** • Git • Neovim • VS Code • Bash Shell • WSL • Docker (currently learning)
 
 ---
 
 ### 📚 Currently Working On
 
-✍️ Drafting my Hindi fiction / sweet romance novel project “Jindagi Ke Rang!!” (Draft 1)
-🦀 Exploring and learning the Rust programming language
-📝 Writing technical blogs and tutorials to help beginners learn with clarity and confidence
+✍️ Drafting my Hindi fiction / sweet romance novel project “Jindagi Ke Rang!!” (Draft 1) <br>
+🦀 Exploring and learning the Rust programming language <br>
+📝 Writing technical blogs and tutorials to help beginners learn with clarity and confidence <br>
 ⚙️ Building personal tools and small applications to simplify everyday system tasks
 
 ---
