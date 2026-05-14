@@ -5,7 +5,7 @@
 ---
 
 ### 💼 About Me  
-🚀 Hi, my name is Ankur Saxena, a writer and blogger who creates fictional stories under the name [Ankur Saxena “Maddy”](https://ankursaxenamaddy.wordpress.com/), and the creator of [CafeTechLinux](https://cafetechlinux.wordpress.com)
+🚀 Hi, my name is Ankur Saxena, a writer, blogger and self researcher who creates fictional stories under the name [Ankur Saxena “Maddy”](https://ankursaxenamaddy.wordpress.com/), and the creator of [CafeTechLinux](https://cafetechlinux.wordpress.com)
  and [AUTHOR ANKUR SAXENA "MADDY"](https://ankursaxenamaddy.wordpress.com/)
 .
 
